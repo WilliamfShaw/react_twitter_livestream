@@ -3,7 +3,7 @@
 This is a live stream of twitter, currently searching for the #WorldSeries hashtag.
 App is built using `twit`, `socket.io`, `react`, `bootstrap`
 
-![ss]('https://s11.postimg.org/jcyyxhez7/Screen_Shot_2016_10_24_at_3_45_15_PM.png')
+![ss](https://s11.postimg.org/jcyyxhez7/Screen_Shot_2016_10_24_at_3_45_15_PM.png)
 
 #To run locally
 
