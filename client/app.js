@@ -50,7 +50,7 @@ class App extends Component {
       <div>
         <div className="col-md-offset-1 col-md-10 container col-md-offset-1">
           <div className="jumbotron">
-            <h1>Who's getting Tweeted More</h1>
+            <h1>Who gets Tweeted More</h1>
             <h3>The Cubbies: {this.state.wordCount.cubs}</h3>
             <h3>The Indians: {this.state.wordCount.indians}</h3>
           </div>
